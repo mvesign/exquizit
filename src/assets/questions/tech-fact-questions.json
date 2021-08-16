@@ -1,0 +1,421 @@
+[
+    {
+        "question": "Hoeveel Tweets worden er, gemiddeld, per dag verzonden?",
+        "options": [
+            {
+                "id": 1,
+                "option": "100.000.000 Tweets",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "500.000.000 Tweets",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "1.000.000 Tweets",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "10.000.000 Tweets",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is dit?",
+        "attachment": {
+            "url": "https://www.thefactsite.com/wp-content/uploads/2019/12/first-computer-mouse.jpg",
+            "height": 320
+        },
+        "options": [
+            {
+                "id": 1,
+                "option": "De eerste Useless Machine.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "De power knop van de eerste computer.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "De eerste computermuis",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Dit is een random afbeelding gevonden op het Internet.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Wanneer was de eerste versie van game Solitaire in Windows te vinden?",
+        "attachment": {
+            "url": "https://boygeniusreport.files.wordpress.com/2015/08/windows-solitaire-30.png",
+            "height": 200
+        },
+        "options": [
+            {
+                "id": 1,
+                "option": "1990",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "1994",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "1988",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "1997",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Welke keyboard layout is gemaakt voor sneller typen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Qwerty",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Azerty",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Dvorak",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Colemak",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Hoeveel procent van de mensen, stoppen hun USB de eerste keer verkeerd in?",
+        "options": [
+            {
+                "id": 1,
+                "option": "50%",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "86%",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "37%",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "100%",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Waarmee ga je akkoord, wanneer je een account aanmaakt voor iTunes?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Om geen producten van Samsung aan te schaffen.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Om alle producten van Apple bij iedereen aan te prijzen.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Om geen virussen voor Apple te ontwikkelen.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Om geen gebruik te maken van nucleaire wapens.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Met welk product is Nintendo begonnen te verkopen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Nintendo Entertainment System.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Speelkaarten.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Gameboy.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Actiefiguurtjes",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2,
+            "description": "Opgericht in 1889, hadden zij nog geen beschikking over computers. Tot 1956 waren zij een speelkaarten bedrijf. Tot op heden hebben zij nog een bridge tournament genaamd de \"Nintendo Cup\"."
+        }
+    },
+    {
+        "question": "Hoe het vogeltje van Twitter?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Tweety",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Blue Bird",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Donald",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Larry",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Roken zorgt voor het vervallen van je Apple garantie.",
+        "options": [
+            {
+                "id": 1,
+                "option": "Waar",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Niet waar",
+                "color": "blue"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "In hoeveel dagen is het spel \"Tetris\" gemaakt?",
+        "options": [
+            {
+                "id": 1,
+                "option": "237 dagen",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "14 dagen",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "51 dagen",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "37 dagen",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Welke bedrijf had als eerste een computer met een grafische interface?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Microsoft",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Nintendo",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Apple",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Windows",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Wat is de originele naam van Google?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Google",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Yahoot",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Backrub",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Searcher",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Een bekende term is \"I’ll be back in a jiffy\". Maar hoelang is een \"jiffy\"?",
+        "options": [
+            {
+                "id": 1,
+                "option": "10 seconden.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "10 milliseconden.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "1 seconde.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "60 seconden.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is het meest voorkomend wachtwoord?",
+        "options": [
+            {
+                "id": 1,
+                "option": "admin",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "987654321",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "123456",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "password",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Bill Gates is slecht in het verzinnen van namen. Hoe heette zijn eerste bedrijf?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Traf-O-Data",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "MS-DOS",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Micro-soft",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "QDOS (Quirky and Dirty Operating System)",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    }
+]

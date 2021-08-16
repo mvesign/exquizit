@@ -1,0 +1,25 @@
+<div class="row info">
+    <div class="col-1 btn">Question {{current.id}} / {{current.numberOfQuestions}}</div>
+    <div class="col-10"></div>
+    <div class="col-1">
+      <button type="button" class="btn btn-link" [routerLink]="['/']">Back to start</button>
+    </div>
+</div>
+<div class="row question">
+    <h1>{{current.question.question}}</h1>
+</div>
+<app-fact-question *ngIf="type=='facts'" [current]="current"></app-fact-question>
+<app-doodle-question *ngIf="type=='doodles'" [current]="current"></app-doodle-question>
+<app-sound-question *ngIf="type=='sounds'" [current]="current"></app-sound-question>
+<div class="row">
+    <div class="col-4">
+        <button *ngIf="current.previousId" type="button" class="btn btn-info" [routerLink]="['/', type, subject, current.previousId]">&lt;&lt;</button>
+    </div>
+    <div class="col-4">
+        <button *ngIf="!current.answered" type="button" class="btn btn-info" (click)="answer()">SHOW!</button>
+        <button *ngIf="current.answered" type="button" class="btn btn-info" (click)="reset()">reset</button>
+    </div>
+    <div class="col-4">
+        <button *ngIf="current.nextId" type="button" class="btn btn-info" [routerLink]="['/', type, subject, current.nextId]">&gt;&gt;</button>
+    </div>
+</div>

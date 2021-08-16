@@ -1,0 +1,422 @@
+[
+    {
+        "question": "Uit hoeveel botten bestaat het skelet van een volwassen persoon?",
+        "options": [
+            {
+                "id": 1,
+                "option": "221",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "273",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "206",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "258",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Babies worden geboren zonder knieschijven. Maar vanaf wanneer worden deze ontwikkeld?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Tussen de 9 en 12 maanden",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Tussen de 18 en 24 maanden",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Tussen de 24 en 36 maanden",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Tussen de 36 en 60 maanden",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Hoeveel gram wegen de hersenen van een volwassen persoon gemiddeld?",
+        "options": [
+            {
+                "id": 1,
+                "option": "900 gram",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "1300 gram",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "1800 gram",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "2300 gram",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is de lengte van alle bloedvaten, in het menselijk lichaam, bij elkaar opgeteld?",
+        "options": [
+            {
+                "id": 1,
+                "option": "1 kilometer",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "100.000 kilometer",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "100 kilometer",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "1.000.000 kilometer",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is de maximum gemeten snelheid van een nies?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Dit is nooit officieel gemeten",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "80 km/uur",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "12 km/uur",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "165 km/uur",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Hoeveel liter bloed kan het hart per minuut pompen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "4 liter",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "6 liter",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "8 liter",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "10 liter",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is de grootste spier in het menselijk lichaam?",
+        "options": [
+            {
+                "id": 1,
+                "option": "De billen",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Het hart",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "De longen",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "De huid",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Hoeveel bacterien wissel je uit tijdens een tongzoen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "50",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "1000",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "250",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "750",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Wat is een \"scapula\"?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Sleutelbeen",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Bovenarm",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Eerste wervel",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Schouderblad",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "In welke taal worden medische termen aangeduid?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Engels",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Grieks",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Latijns",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Japans",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Wat is het sterkste bot in het menselijk lichaam?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Femur",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Humerus",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Tibia",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Fibula",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Hoeveel uur dromen wij, gemiddeld, per nacht?",
+        "options": [
+            {
+                "id": 1,
+                "option": "4 uur",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "2 uur",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "1/2 uur",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "1 uur",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Waar lijdt je aan bij een \"acute lumbago\"?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Nekpijn",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Schouderpijn",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Fantoompijn",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Rugpijn",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Welk geslacht is meer kleurenblind?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Mannen",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Vrouwen",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "AH-64D Apache-gevechtshelikopter",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Onbekend",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Hoeveel procent kan een mens onthouden van de vorige dag?",
+        "options": [
+            {
+                "id": 1,
+                "option": "50%",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "60%",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "30%",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "80%",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "question": "Wat is de kleur van Coca-Cola zonder kleurstof?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Kleurloos",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Zwart",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Groen",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Geel",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Voor wie zijn high heels ontworpen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Vrouwen, om zo slanker te lijken.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Slagers, om niet in het bloed te stappen.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Mensen met rug problemen.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Soldaten, om langer te lijken.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Wat is de kleur van de zonsopgang op Mars?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Rood",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Geel",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Paars",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Blauw",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Wat is \"Nomofobie\"?",
+        "options": [
+            {
+                "id": 1,
+                "option": "De angst om geen bereik te hebben op je telefoon.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "De angst voor nummers.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "De angst om bekeken te worden door een eend.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "De angst om alleen te zijn in een ruimte.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Hoe noem je het streepje in een wiskundige breuk?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Dash",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Opticulum",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Clavo",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Vinculum",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Waar is een varken niet toe in staat?",
+        "options": [
+            {
+                "id": 1,
+                "option": "In de lucht te springen",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Naar de lucht te kijken",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Zijn voorpoten te zien",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Zijn staart recht te krijgen",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Donald Duck strips zijn verboden in Finland. Waarom is dat?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Hij is niet gelovig.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Dinsey producten zijn daar verboden.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Hij draagt geen broek.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Zijn karakter is te agressief.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Hoeveel scheten laat een mens, gemiddeld, per jaar?",
+        "options": [
+            {
+                "id": 1,
+                "option": "500",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "1500",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "2000",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "6000",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Op welk tijdstip ziet een vrouw er op hun oudst uit?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Woensdag, 15:30.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Vrijdag, 17:00",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Maandag, 12:00",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Donderdag, 08:30",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Wat gebeurt er als je alcohol op een schorpioen laat vallen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Dan heeft de schorpioen een geweldige tijd.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Het dier steekt zichzelf dood.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Begraaft zich in het zand om het \"af te wassen\".",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Niets.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Mensen plassen in een zwembad. Maar hoeveel urine laat een gemiddelde zwemmer achter?",
+        "options": [
+            {
+                "id": 1,
+                "option": "1 liter",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "10 milliliter",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "500 milliliter",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "70 milliliter",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 4
+        }
+    },
+    {
+        "question": "Wat gebeurt er met een goudvis als die in het donker leeft?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Groeit niet meer.",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Groeit dubbel zo snel.",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Verliest zijn kleur.",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Verliest zijn schubben.",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 3
+        }
+    },
+    {
+        "question": "Welk dier is niet in staat om omhoog te springen?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Olifant",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Stier",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Giraffe",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Kip",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    },
+    {
+        "question": "Wat is een ongeluksdag in Italië?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Vrijdag de 13e",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Vrijdag de 17e",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Maandag de 1ste",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Woensdag de 25ste",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 2
+        }
+    },
+    {
+        "question": "Welk insect leeft het langst?",
+        "options": [
+            {
+                "id": 1,
+                "option": "Termiet",
+                "color": "red"
+            },
+            {
+                "id": 2,
+                "option": "Kakkerlak",
+                "color": "blue"
+            },
+            {
+                "id": 3,
+                "option": "Zilvervisje",
+                "color": "yellow"
+            },
+            {
+                "id": 4,
+                "option": "Mug",
+                "color": "green"
+            }
+        ],
+        "answer": {
+            "id": 1
+        }
+    }
+]

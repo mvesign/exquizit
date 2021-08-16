@@ -1,0 +1,32 @@
+[
+    {
+        "type": "facts",
+        "key": "crazy",
+        "title": "Round 1 - Crazy but useless",
+        "description": "Leuke, gekke feitjes waar je niets aan zal hebben.<ul><li>15 vragen</li><li>Meerdere opties</li><li>Maar 1 als correct antwoord</li><li>Geef de kleur van jouw antwoord</li></ul>"
+    },
+    {
+        "type": "doodles",
+        "key": "random",
+        "title": "Round 2 - Doodle to victory",
+        "description": "Haal je tekenspullen te voorschijn! Of gewoon een potlood met papier.<ul><li>10 opdrachten</li><li>Teken het voorwerp of dier</li><li>30 seconden de tijd</li><li>Wij zijn de jury</li></ul>"
+    },
+    {
+        "type": "facts",
+        "key": "body",
+        "title": "Round 3 - Body check-ups",
+        "description": "Toffe feitjes over het menselijk lichaam en alles wat daarmee te maken heeft.<ul><li>15 vragen</li><li>Meerdere opties</li><li>Maar 1 als correct antwoord</li><li>Geef de kleur van jouw antwoord</li></ul>"
+    },
+    {
+        "type": "sounds",
+        "key": "animal",
+        "title": "Round 4 - Animal sound-mania",
+        "description": "Kalkoen of toch een John Deere 6320? Kan jij raden wat je hier hoort?<ul><li>15 geluidsfragmenten</li><li>Meerdere opties</li><li>Maar 1 als correct antwoord</li><li>Geef de kleur van jouw antwoord</li></ul>"
+    },
+    {
+        "type": "facts",
+        "key": "tech",
+        "title": "Round 5 - Tech IT up",
+        "description": "Nerdgasme inbound. Probeer geen stack overflow te krijgen van deze typische computer feitjes.<ul><li>15 vragen</li><li>Meerdere opties</li><li>Maar 1 als correct antwoord</li><li>Geef de kleur van jouw antwoord</li></ul>"
+    }
+]

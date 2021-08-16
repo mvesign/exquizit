@@ -1,0 +1,11 @@
+<div class="row">
+    <button *ngIf="!started" type="button" class="btn btn-info" (click)="start()">START!</button>
+    <button *ngIf="started" type="button" class="btn btn-info" (click)="stop()">STOP!</button>
+</div>
+<div *ngIf="!current.answered" class="row timer">
+    <h1>{{seconds}}</h1>
+</div>
+<div *ngIf="current.answered" class="row">
+    <img src="{{current.question.attachment.url}}" alt="" height="{{current.question.attachment.height}}" />
+</div>
+<div class="row">&nbsp;</div>
